@@ -1,0 +1,33 @@
+.post-image {
+    width: 10%;
+}
+.open-post-modal {
+ width: 100%;
+ height: 5rem;
+}
+
+.post-status {
+    overflow: scroll;
+    height: 80vh;
+    overflow-x: hidden;
+}
+
+.message-row {
+    background-color: rgba(241, 248, 249, 0.789);
+    width: 95%;
+    margin: 10px auto;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.container {
+    display: flex;
+    flex: row nowrap;
+    background-color: rgba(201, 223, 245, 0.375);
+    justify-content: space-between;
+    margin: 5px 4px;
+    height: 4vh;
+    padding: 10px;
+    border-radius: 20px;
+    width: 97vw;
+}
